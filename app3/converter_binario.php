@@ -12,7 +12,7 @@ function stringParaBinario($string){
     return $binario;
 }
     //Exemplo de uso
-    $frase = "palmeiras ganhou do santos!";
+    $frase = "Ingrid Guimarães Placidino";
     $frasebinario = stringParaBinario($frase);
 
     //Exibindo a frase original e sua versão binário
